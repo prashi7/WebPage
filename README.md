@@ -1,2 +1,2 @@
 # WebPage
-this is a simple webpage based on htm l& css 
+Simple WebPage Using Html &Css
